@@ -1,0 +1,38 @@
+[
+    {
+    "nombre": "bizcochuelo",
+    "harina": 150,
+    "huevos": 150,
+    "azucar": 5
+    },
+    {
+    "nombre": "cupcakes",
+    "harina": 200,
+    "huevos": 3,
+    "azucar": 200,
+    "manteca": 125,
+    "pirotin": 12
+    },
+    {
+    "nombre": "brownie",
+    "chocolate": 150,
+    "azucar": 200,
+    "harina": 100,
+    "manteca": 100,
+    "huevos": 2,
+    "nueces": 100
+    },
+    {
+    "nombre": "merengue",
+    "claras": 4,
+    "azucar": 240,
+    "agua": 80
+    },
+    {
+    "nombre": "buttercream",
+    "manteca": 250,
+    "azucarImpalpable": 400,
+    "crema": 200
+    }
+
+]
